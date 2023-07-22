@@ -1,0 +1,61 @@
+ [
+      {
+        "id": 1,
+        "name": "University of XYZ",
+        "img": "https://example.com/university_xyz.jpg",
+        "admission_dates": "August 15 - September 30",
+        "events": [
+          "Orientation Day",
+          "Career Fair",
+          "Alumni Reunion",
+          "Science Exhibition"
+        ],
+        "research_history": "Founded in 1920, University of XYZ has a rich history of groundbreaking research in various fields.",
+        "sports": [
+          "Basketball",
+          "Soccer",
+          "Swimming",
+          "Tennis"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "ABC College",
+        "img": "https://example.com/abc_college.jpg",
+        "admission_dates": "September 1 - October 15",
+        "events": [
+          "Freshers' Welcome Party",
+          "Annual Sports Meet",
+          "Tech Fest",
+          "Literary Symposium"
+        ],
+        "research_history": "ABC College is renowned for its contributions to environmental research and sustainability.",
+        "sports": [
+          "Cricket",
+          "Volleyball",
+          "Badminton",
+          "Athletics"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "XYZ Institute of Technology",
+        "img": "https://example.com/xyz_institute.jpg",
+        "admission_dates": "July 20 - August 31",
+        "events": [
+          "Hackathon",
+          "Tech Expo",
+          "Cultural Fest",
+          "Industry Summit"
+        ],
+        "research_history": "XYZ Institute of Technology has a long-standing tradition of technological innovation and research excellence.",
+        "sports": [
+          "Football",
+          "Table Tennis",
+          "Gymnastics",
+          "Chess"
+        ]
+      }
+    ]
+  
+  
