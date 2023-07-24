@@ -2,52 +2,62 @@
       {
         "student_name": "John Doe",
         "review": "I absolutely loved my time at University of XYZ. The campus atmosphere was amazing, the professors were knowledgeable and supportive, and the events organized were a lot of fun!",
-        "student_img": "https://example.com/john_doe.jpg"
+        "student_img": "https://rb.gy/22hjw",
+        "rating":5
       },
       {
         "student_name": "Jane Smith",
         "review": "ABC College provided me with the best learning experience. The faculty was dedicated, and the practical approach to education helped me gain valuable skills for my future career.",
-        "student_img": "https://example.com/jane_smith.jpg"
+        "student_img": "https://shorturl.at/bgjmP",
+        "rating":4
       },
       {
         "student_name": "Sam Johnson",
         "review": "I can't say enough good things about XYZ Institute of Technology. The research opportunities were outstanding, and I got to work on cutting-edge projects with brilliant minds.",
-        "student_img": "https://example.com/sam_johnson.jpg"
+        "student_img": "https://rb.gy/90rqr",
+        "rating":5
       },
       {
         "student_name": "Emily Brown",
         "review": "Being part of the sports team at ABC College was an unforgettable experience. I made lifelong friends and learned essential life skills like teamwork and discipline.",
-        "student_img": "https://example.com/emily_brown.jpg"
+        "student_img": "https://rb.gy/xxb8i",
+        "rating":3.8
       },
       {
         "student_name": "Michael Lee",
         "review": "I am grateful for the diverse cultural environment at XYZ Institute. It broadened my horizons and gave me a deeper appreciation for different perspectives.",
-        "student_img": "https://example.com/michael_lee.jpg"
+        "student_img": "https://shorturl.at/bgjmP",
+        "rating":4.9
       },
       {
         "student_name": "Sophia Wilson",
         "review": "The events and extracurricular activities at University of XYZ made my college years memorable. From volunteering to participating in drama clubs, I had an enriching experience.",
-        "student_img": "https://example.com/sophia_wilson.jpg"
+        "student_img": "https://rb.gy/xxb8i",
+        "rating":4.6
       },
       {
         "student_name": "Daniel Martin",
         "review": "The strong emphasis on research at XYZ Institute of Technology motivated me to pursue my passion for scientific discovery. It was an intellectually stimulating environment.",
-        "student_img": "https://example.com/daniel_martin.jpg"
+        "student_img": "https://rb.gy/ll4fi",
+        "rating":4.1
       },
       {
         "student_name": "Olivia Adams",
         "review": "The sports facilities and coaching at ABC College helped me improve my skills and win competitions. The college's support was instrumental in my athletic journey.",
-        "student_img": "https://example.com/olivia_adams.jpg"
+        "student_img": "https://rb.gy/90rqr",
+        "rating":4
       },
       {
         "student_name": "William Turner",
         "review": "The networking opportunities provided by University of XYZ were invaluable. I made connections with professionals in my field, which eventually led to great job offers.",
-        "student_img": "https://example.com/william_turner.jpg"
+        "student_img": "https://rb.gy/22hjw",
+        "rating":3.9
       },
       {
         "student_name": "Ava White",
         "review": "The warm and friendly atmosphere at ABC College made me feel at home away from home. I cherish the memories and friendships I made during my time there.",
-        "student_img": "https://example.com/ava_white.jpg"
+        "student_img": "https://rb.gy/p8a1f",
+        "rating":5
       }
     ]
   

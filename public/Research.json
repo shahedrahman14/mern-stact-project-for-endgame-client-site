@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Research Paper 1",
+      "link": "https://zendy.io/pdf-viewer/10.1001/2012.jama.10161",
+      "researched_by": "John Doe"
+    },
+    {
+      "title": "Research Paper 2",
+      "link": "https://zendy.io/pdf-viewer/10.1001%2F2012.jama.10812",
+      "researched_by": "Jane Smith"
+    },
+    {
+      "title": "Research Paper 3",
+      "link": "https://zendy.io/pdf-viewer/10.1001%2F2012.jama.11132",
+      "researched_by": "Alex Johnson"
+    },
+    {
+      "title": "Research Paper 4",
+      "link": "https://zendy.io/pdf-viewer/10.1001%2F2012.jama.10982",
+      "researched_by": "Emily Williams"
+    },
+    {
+      "title": "Research Paper 5",
+      "link": "https://zendy.io/pdf-viewer/10.1001%2F2012.jama.11153",
+      "researched_by": "Michael Brown"
+    },
+    {
+      "title": "Research Paper 6",
+      "link": "https://zendy.io/pdf-viewer/10.1001%2F2012.jama.11164",
+      "researched_by": "Sophia Lee"
+    }
+  ]
+  

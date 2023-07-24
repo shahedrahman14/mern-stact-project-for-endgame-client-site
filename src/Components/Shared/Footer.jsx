@@ -1,3 +1,4 @@
+import img from '../../assets/pngtree-admission-open-tag-abstract-shape-png-png-image_4566492.png'
 import {
     FaYoutube,
     FaTwitter,
@@ -10,32 +11,32 @@ import {
     return (
       <footer className="footer p-10 bg-neutral text-neutral-content">
         <div>
-          <img src="https://rb.gy/mvpzc" className="w-12" alt="" />
+          <img src={img} className="w-12" alt="" />
           <p>
-            ToyCarShop Ltd. <br />
-            NewYork, USA
+            Admission. <br />
+            All University & college of USA
             <br />
-             &copy; All right reserve for ToyCarShop since 1992
+             &copy; All right reserve for Admission 
           </p>
         </div>
         <div>
-          <span className="footer-title">Social</span>
+          <span className="footer-title">Social & contract</span>
           <div className="grid grid-flow-col gap-4">
-            <a href="https://www.youtube.com/@ToyForKids1">
+            <a href="https://www.youtube.com/duadmissions">
               {" "}
               <FaYoutube className="w-7 h-7"></FaYoutube>
             </a>
   
-            <a href="https://twitter.com/cartoys?lang=en">
+            <a href="https://twitter.com/ElonAdmissions">
               {" "}
               <FaTwitter className="w-7 h-7"></FaTwitter>
             </a>
   
-            <a href="https://web.facebook.com/toystoreforkids/">
+            <a href="https://www.facebook.com/admission.acd/">
               {" "}
               <FaFacebook className="w-7 h-7"></FaFacebook>
             </a>
-            <a href="mailto: contactusonline@cartoys.com">
+            <a href="mailto: admission@du.com">
               {" "}
               <FaMailBulk className="w-7 h-7"></FaMailBulk>
             </a>

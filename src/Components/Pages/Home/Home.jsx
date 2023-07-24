@@ -1,7 +1,13 @@
+import College from "./College";
+import ImageGallery from "./ImageGallery";
+import ResearchPaper from "./ResearchPaper";
+import Review from "./Review";
+
 const Home = () => {
   return (
-    <div>
-      <div className="form-control">
+    <div className="mx-auto">
+      <div className="mx-auto mt-24 flex">
+      <div className="form-control mx-auto ">
         <div className="input-group">
           <input
             type="text"
@@ -26,6 +32,11 @@ const Home = () => {
           </button>
         </div>
       </div>
+      </div>
+      <College></College>
+      <ImageGallery></ImageGallery>
+      <ResearchPaper></ResearchPaper>
+      <Review></Review>
     </div>
   );
 };
